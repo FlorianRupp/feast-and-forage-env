@@ -8,7 +8,16 @@ The code along the models for balancing of asymmetric player archetypes have bee
 in the following paper:
 
 ```
-Coming soon
+@inproceedings{rupp_level_the_level_2025,
+author = {Rupp, Florian and Eckert, Kai},
+title = {Level the Level: Balancing Game Levels for Asymmetric Player Archetypes With Reinforcement Learning},
+year = {2025},
+doi = {10.1145/3723498.3723747},
+booktitle = {Proceedings of the 20th International Conference on the Foundations of Digital Games},
+articleno = {48},
+numpages = {4},
+series = {FDG '25}
+}
 ```
 
 
